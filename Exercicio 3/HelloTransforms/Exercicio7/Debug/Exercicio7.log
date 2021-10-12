@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloOrtho.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Origem.cpp
+C:\Users\eduar\source\repos\Lista 3\Exercicio 3\HelloTransforms\Exercicio7\Origem.cpp(39,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Exercicio7.vcxproj -> C:\Users\eduar\source\repos\Lista 3\Exercicio 3\HelloTransforms\Debug\HelloTransforms.exe
